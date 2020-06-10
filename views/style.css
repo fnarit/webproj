@@ -1,0 +1,71 @@
+/*//////////////index///////////////////*/
+#index {
+    background: url(https://images.unsplash.com/photo-1565300667498-2843c56b4603?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1942&q=80);
+    background-size: cover;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.material-icons.md-48 { 
+    font-size: 48px; 
+}
+
+#content {
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 5%;
+    font-family: 'Courgette', cursive;
+}
+
+#content2 {
+    text-align: center;
+    padding-top: 12%;
+    padding-bottom: 10%;
+    font-family: 'Abril Fatface', cursive;
+}
+
+/*//////////////sign up///////////////////*/
+#SignUp {
+    background: url(https://images.unsplash.com/photo-1536009190979-329b94ad4d57?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+    background-size: cover;
+    font-family: 'Abril Fatface', cursive;
+}
+
+h1 {
+    text-align: center;
+    text-decoration-color: darkgrey;
+    padding-top: 10%;
+}
+
+#getdata{
+    text-align: center;
+    padding-top: 10%;
+}
+
+
+/*////////////////Log in/////////////////*/
+#SignIn {
+    background: url(https://images.unsplash.com/photo-1591563720884-3a44a069b56c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+    background-size: cover;
+    text-decoration-color: lightgrey;
+    font-family: 'Abril Fatface', cursive;
+}
+
+
+
+
+
+
+
+
+
+/*////////////////user///////////////////*/
+#user {
+    background: url(https://images.unsplash.com/photo-1565300667498-2843c56b4603?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1942&q=80);
+    background-size: cover;
+    font-family: 'Abril Fatface', cursive;
+}
+
+
+
+
+
